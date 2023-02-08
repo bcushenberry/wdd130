@@ -109,7 +109,7 @@ nav a {
 
 .subpage-main {
     display: grid;
-    grid-template-rows: 2 auto;
+    grid-template-rows: 2fr auto;
     text-align: center;
 }
 
